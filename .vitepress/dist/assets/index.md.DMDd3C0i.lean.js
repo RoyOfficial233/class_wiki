@@ -1,0 +1,5 @@
+import{_ as o,c as l,o as n,j as e,a}from"./chunks/framework.Ds6Eueu6.js";const i={},h=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"home","hero":{"name":"Roy Package Manager","text":"一个轻量级的包管理器","tagline":"使用Shell Script编写","actions":[{"theme":"brand","text":"安装","link":"/install"},{"theme":"alt","text":"关于","link":"/about"},{"theme":"alt","text":"版本列表","link":"/versions"}]},"features":[{"title":"单文件脚本","details":"告别臃肿,回归简洁.易安装,易卸载."},{"title":"高级模式","details":"对于需要更多自定义选项的高级用户,我们提供高级模式."}]},"headers":[],"relativePath":"index.md","filePath":"index.md"}');function r(s,t,d,c,p,f){return n(),l("div",null,t[0]||(t[0]=[e("template",null,[e("div",{id:"app"})],-1),e("template",null,[e("div",{id:"app"},[e("pre",null,[e("code",null,`<!-- Footer -->
+<div class="footer">
+  This is the footer content.
+</div>
+`)])])],-1),e("footer",{style:{"text-align":"center","font-size":"0.9rem",color:"#666"},class:"footer"},[a(" Copyright © 2022-2025 "),e("a",{href:"https://github.com/RoyNetworks"},"RoyOfficial"),a(" All Right Reserved. ")],-1)]))}const u=o(i,[["render",r]]);export{h as __pageData,u as default};
