@@ -1,6 +1,5 @@
 ---
 layout: home
-
 hero:
   name: "Class Wiki"
   text: "一个记载着班级趣事和外号的网站"

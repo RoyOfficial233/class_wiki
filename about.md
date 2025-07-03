@@ -2,9 +2,8 @@
 title : 关于
 ---
 ## 免责声明
-我们只是外号的搬运工,并非外号的制造者
-如有疑问联系<a href="mailto:class-wiki@rof.sh">class-wiki@rof.sh></a>
----
+<p>我们只是外号的搬运工,并非外号的制造者
+如有疑问联系<a href="mailto:class-wiki@rof.sh">class-wiki@rof.sh></a></p>
 <style>
 .footer {
   position: fixed;
@@ -15,17 +14,7 @@ title : 关于
   text-align: center;
   padding: 10px;
 }
-</style>
-<template>
-  <div id="app">
-    <!-- Your main content here -->
-
-    <!-- Footer -->
-    <div class="footer">
-      This is the footer content.
-    </div>
-  </div>
-</template>
+</style
 <footer style="text-align: center; font-size: 0.9rem; color: #666;" class="footer">
-Copyright © 2022-2025 <a href="https://github.com/RoyNetworks">RoyOfficial</a> All Right Reserved.
+Copyright © 2022-2025 <a href="https://github.com/RoyOfficial233">RoyOfficial</a> All Right Reserved.
 </footer>
