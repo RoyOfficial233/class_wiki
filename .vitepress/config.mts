@@ -13,7 +13,8 @@ export default defineConfig({
       {
         text: '文档',
         items: [
-		{ text: '关于', link: '/about' }
+		{ text: '关于', link: '/about' },
+    { text: '开始阅读', link: '/get-started' }
         ]
       }
     ],
