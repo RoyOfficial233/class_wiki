@@ -1,6 +1,9 @@
 ---
 title : 关于
 ---
+# 关于此项目
+## 介绍
+<p>创建此项目是为了与同学分享班级中的趣事</p>
 ## 免责声明
 我们只是外号的搬运工,并非外号的制造者<br>
 如有疑问联系<a href="mailto:class-wiki@rof.sh">class-wiki@rof.sh></a>
