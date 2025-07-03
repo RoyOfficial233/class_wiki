@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -8,20 +7,16 @@ hero:
   tagline: "使用Shell Script编写"
   actions:
     - theme: brand
-      text: 安装
-      link: /install
+      text: 开始
+      link: /before-read
     - theme: alt
       text: 关于
       link: /about
-    - theme: alt
-      text: 版本列表
-      link: /versions
+ 
 
 features:
-  - title: 单文件脚本
-    details: 告别臃肿,回归简洁.易安装,易卸载.
-  - title: 高级模式
-    details: 对于需要更多自定义选项的高级用户,我们提供高级模式.
+  - title: 故事
+    details: 你想知道的外号背后的故事,都在这里!
 ---
 <template>
   <div id="app">
@@ -61,5 +56,5 @@ export default {
   </div>
 </template>
 <footer style="text-align: center; font-size: 0.9rem; color: #666;" class="footer">
-Copyright © 2022-2025 <a href="https://github.com/RoyNetworks">RoyOfficial</a> All Right Reserved.
+Copyright © 2022-2025 <a href="https://github.com/RoyOfficial233">RoyOfficial</a> All Right Reserved.
 </footer>
