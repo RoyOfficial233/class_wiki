@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as i,ag as e}from"./chunks/framework.Ds6Eueu6.js";const l={},k=JSON.parse('{"title":"安装","description":"","frontmatter":{"title":"安装"},"headers":[],"relativePath":"install.md","filePath":"install.md"}');function n(h,s,o,p,r,d){return i(),a("div",null,s[0]||(s[0]=[e("",8)]))}const g=t(l,[["render",n]]);export{k as __pageData,g as default};

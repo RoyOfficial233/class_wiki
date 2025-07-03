@@ -1,0 +1,5 @@
+import{_ as e,c as a,o,ag as i}from"./chunks/framework.Ds6Eueu6.js";const l={},_=JSON.parse('{"title":"关于","description":"","frontmatter":{"title":"关于"},"headers":[],"relativePath":"about.md","filePath":"about.md"}');function r(n,t,s,p,d,c){return o(),a("div",null,t[0]||(t[0]=[i(`<h2 id="支持的系统" tabindex="-1">支持的系统 <a class="header-anchor" href="#支持的系统" aria-label="Permalink to &quot;支持的系统&quot;">​</a></h2><ul><li><p>CentOS</p></li><li><p>Debian</p></li><li><p>Ubuntu</p></li></ul><h2 id="支持的包" tabindex="-1">支持的包 <a class="header-anchor" href="#支持的包" aria-label="Permalink to &quot;支持的包&quot;">​</a></h2><ul><li><p>Nginx</p></li></ul><hr><template><div id="app"></div></template><template><div id="app"><pre><code>&lt;!-- Footer --&gt;
+&lt;div class=&quot;footer&quot;&gt;
+  This is the footer content.
+&lt;/div&gt;
+</code></pre></div></template><footer style="text-align:center;font-size:0.9rem;color:#666;" class="footer"> Copyright © 2022-2025 <a href="https://github.com/RoyNetworks">RoyOfficial</a> All Right Reserved. </footer>`,8)]))}const h=e(l,[["render",r]]);export{_ as __pageData,h as default};
