@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Roy Package Manager",
-  description: "A Light Linux Package Manager",
+  title: "Class Wiki",
+  description: "一个分享班级趣事的网站",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
@@ -14,15 +14,14 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'Roy Package Manager Docs',
+        text: '文档',
         items: [
-		{ text: '关于', link: '/about' },
-          { text: '安装', link: '/install' }
+		{ text: '关于', link: '/about' }
         ]
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/RoyNetworks' }
+      { icon: 'github', link: 'https://github.com/RoyOfficial233' }
     ]
   }
 })
