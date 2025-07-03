@@ -15,7 +15,6 @@ hero:
 features:
   - title: 你想知道的,应有尽有
     details: 外号背后的故事,都在这里
->>>>>>> dev
 ---
 <style>
 .footer {
