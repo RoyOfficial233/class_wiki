@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import markdownItVideo from "@vrcd-community/markdown-it-video";
 export default defineConfig({
   title: "Class Wiki",
   description: "一个分享班级趣事的网站",
