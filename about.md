@@ -1,36 +1,11 @@
 ---
 title : 关于
 ---
-## 支持的系统
-<ul>
-<li><p>CentOS</p></li>
-<li><p>Debian</p></li>
-<li><p>Ubuntu</p></li>
-</ul>
-
-## 支持的包
-<ul>
-<li><p>Nginx</p></li>
-</ul>
-
+## 免责声明
+我们只是外号的搬运工,并非外号的制造者
+如有疑问联系<a href="mailto:class-wiki@rof.sh">class-wiki@rof.sh></a>
 ---
-
-<template>
-  <div id="app">
-    <!-- Your main content here -->
-  </div>
-</template>
-
-<script>
-export default {
-  // Your script code here
-}
-</script>
-
 <style>
-/* Your global styles here */
-
-/* Fix the footer at the bottom of the page */
 .footer {
   position: fixed;
   left: 0;
@@ -41,7 +16,6 @@ export default {
   padding: 10px;
 }
 </style>
-
 <template>
   <div id="app">
     <!-- Your main content here -->
