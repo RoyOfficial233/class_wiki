@@ -1,7 +1,7 @@
 export default {
   themeConfig: {
     footer: {
-      copyright: 'Copyright © 2022-2025 <a href="https://github.com/RoyNetworks">RoyOfficial</a> All Right Reserved.'
+      copyright: 'Copyright © 2022-2025 <a href="https://github.com/RoyOfficial233">RoyOfficial</a> All Right Reserved.'
     }
   }
 }
