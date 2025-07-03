@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: "Class Wiki"
-  text: "一个记载着班级趣事和外号的网站"
+  text: "一个分享班级趣事的网站"
   tagline: "使用VitePress"
   actions:
     - theme: brand
@@ -11,9 +11,6 @@ hero:
     - theme: alt
       text: 关于
       link: /about
-features:
-  - title: 你想知道的,应有尽有
-    details: 外号背后的故事,都在这里
 ---
 <style>
 .footer {
