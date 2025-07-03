@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import markdownItVideo from "@vrcd-community/markdown-it-video";
+import { Vid } from '@theojs/lumen'
 export default defineConfig({
   title: "Class Wiki",
   description: "一个分享班级趣事的网站",
@@ -23,13 +23,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/RoyOfficial233' }
     ]
   }
+    enhanceApp: ({ app }) => {
+    app.component('Vid', Vid)
+  } 
 })
-markdown: {
-    config: (md) => {
-        md.use(markdownItVideo, {
-            video: {width: '100%', height: '387px'},
-            youtube: {width: '100%', height: '387px'},
-            bilibili: {width: '100%', height: '387px'}
-        });
-    },
-},
