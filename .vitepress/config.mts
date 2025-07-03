@@ -23,7 +23,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/RoyOfficial233' }
     ]
   }
+})
     enhanceApp: ({ app }) => {
     app.component('Vid', Vid)
   } 
-})
