@@ -1,11 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Class Wiki",
   description: "一个分享班级趣事的网站",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: 'local'
     },
@@ -16,7 +14,8 @@ export default defineConfig({
       {
         text: '文档',
         items: [
-		{ text: '关于', link: '/about' }
+		{ text: '关于', link: '/about' },
+    { text: '开始阅读', link: '/get-started' }
         ]
       }
     ],
