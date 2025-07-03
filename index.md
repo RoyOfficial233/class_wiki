@@ -7,18 +7,6 @@ hero:
   tagline: "使用VitePress"
   actions:
     - theme: brand
-<<<<<<< HEAD
-      text: 开始
-      link: /before-read
-    - theme: alt
-      text: 关于
-      link: /about
- 
-
-features:
-  - title: 故事
-    details: 你想知道的外号背后的故事,都在这里!
-=======
       text: 开始阅读
       link: /get-started
     - theme: alt
