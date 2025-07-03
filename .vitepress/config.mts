@@ -1,11 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Roy Package Manager",
-  description: "A Light Linux Package Manager",
+  title: "Class Wiki",
+  description: "一个分享班级趣事的网站",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: 'local'
     },
