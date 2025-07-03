@@ -26,7 +26,3 @@ export default defineConfig({
     ]
   }
 })
-export default {
-  // ... other config
-  outDir: '../dist'  // Relative to .vitepress directory
-}
