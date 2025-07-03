@@ -7,7 +7,7 @@ title : 关于
 
 ## 免责声明
 我们只是外号的搬运工,并非外号的制造者<br>
-如有疑问联系<a href="mailto:class-wiki@rof.sh">class-wiki@rof.sh></a>
+如有疑问联系<a href="mailto:class-wiki@rof.sh">class-wiki@rof.sh</a>
 <style>
 .footer {
   position: fixed;
