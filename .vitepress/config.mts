@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import { Vid } from '@theojs/lumen'
 export default defineConfig({
   title: "Class Wiki",
   description: "一个分享班级趣事的网站",
@@ -24,6 +23,3 @@ export default defineConfig({
     ]
   }
 })
-    enhanceApp: ({ app }) => {
-    app.component('Vid', Vid)
-  } 
