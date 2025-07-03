@@ -8,11 +8,11 @@ export default {
   extends: DefaultTheme,
   enhanceApp: ({ app }) => {
     app.component('Vid', Vid)
-   } 
+   },
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
     })
-  },
+  }
 } satisfies Theme
 
 
