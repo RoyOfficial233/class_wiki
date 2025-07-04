@@ -3,9 +3,6 @@ export default defineConfig({
   title: "Class-Wiki",
   description: "班级梗百科",
   themeConfig: {
-		favicon: { 
-			logo: "/static/Miku.jpg"
-		},
     search: {
       provider: "local"
     },
