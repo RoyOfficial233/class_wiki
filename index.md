@@ -12,7 +12,6 @@ hero:
       text: 关于
       link: /about
 ---
-<DataPanel />
 <style>
 .footer {
   position: fixed;
