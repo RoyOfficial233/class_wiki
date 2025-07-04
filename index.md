@@ -11,7 +11,8 @@ hero:
     - theme: alt
       text: 关于
       link: /about
-  features:
+
+features:
   - title: 图文并茂
     details: 有图有视频,包看着有趣
 ---
