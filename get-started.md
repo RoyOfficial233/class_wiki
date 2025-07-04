@@ -19,5 +19,5 @@ title : 开始阅读
 }
 </style>
 <footer style="text-align: center; font-size: 0.9rem; color: #666;" class="footer">
-Made With Love By [RoyOfficial](https://github.com/RoyOfficial233){target="_self"}.
+Made With Love By <a href="https://github.com/RoyOfficial233">RoyOfficial</a>.
 </footer>
