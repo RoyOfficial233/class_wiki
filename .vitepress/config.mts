@@ -5,7 +5,7 @@ export default defineConfig({
   themeConfig: {
 		favicon: { 
 			logo: "/static/Miku.jpg"
-		} 
+		},
     search: {
       provider: "local"
     },
