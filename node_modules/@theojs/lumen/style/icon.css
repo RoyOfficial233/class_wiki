@@ -1,9 +1,0 @@
-iconify-icon {
-  display: inline-block;
-  vertical-align: -0.125em;
-}
-
-/* right margin for Iconify icons */
-.i-mr {
-  margin-right: var(--i-mr);
-}

@@ -24,5 +24,5 @@ hero:
 }
 </style>
 <footer style="text-align: center; font-size: 0.9rem; color: #666;" class="footer">
-Copyright © 2022-2025 <a href="https://github.com/RoyOfficial233">RoyOfficial</a> All Right Reserved.
+Made With Love By<a href="https://github.com/RoyOfficial233">RoyOfficial</a>.
 </footer>
