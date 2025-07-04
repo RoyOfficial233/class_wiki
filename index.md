@@ -4,9 +4,9 @@ hero:
   name: "Class-Wiki"
   text: "班级梗百科"
   tagline: "❤"
-  image: 
-    src: /static/Miku.jpg
-    alt: Miku
+#  image: 
+#    src: /static/Miku.jpg
+#    alt: Miku
   actions:
     - theme: brand
       text: 开始阅读
