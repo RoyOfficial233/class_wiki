@@ -3,7 +3,7 @@ title : 关于
 ---
 # 关于此项目
 ## 介绍
-创建此项目是为了与同学分享班级中的趣事
+创建此项目,是为了分享班级中"梗"背后的故事
 
 ## 免责声明
 我们只是外号的搬运工,并非外号的制造者<br>
@@ -20,5 +20,5 @@ title : 关于
 }
 </style>
 <footer style="text-align: center; font-size: 0.9rem; color: #666;" class="footer">
-Made With Love By<a href="https://github.com/RoyOfficial233">RoyOfficial</a>.
+Made With Love By <a href="https://github.com/RoyOfficial233">RoyOfficial</a>.
 </footer>

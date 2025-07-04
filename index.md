@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-  name: "Class Wiki"
-  text: "一个分享班级趣事的网站"
+  name: "Class-Wiki"
+  text: "班级梗百科"
   tagline: "使用VitePress"
   actions:
     - theme: brand
@@ -24,5 +24,5 @@ hero:
 }
 </style>
 <footer style="text-align: center; font-size: 0.9rem; color: #666;" class="footer">
-Made With Love By<a href="https://github.com/RoyOfficial233">RoyOfficial</a>.
+Made With Love By <a href="https://github.com/RoyOfficial233">RoyOfficial</a>.
 </footer>

@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
-  title: "Class Wiki",
-  description: "一个分享班级趣事的网站",
+  title: "Class-Wiki",
+  description: "班级梗百科",
   themeConfig: {
     search: {
       provider: 'local'

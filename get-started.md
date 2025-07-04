@@ -4,8 +4,9 @@ title : 开始阅读
 # 开始阅读
 
 ## 欢迎阅读本文档,来看看推荐条目吧~
-<a href="/lingle/01">尖嘴老辣椒</a>
----
+<ul>
+<li><a href="/lingle/01">尖嘴老辣椒</a></li>
+</ul>
 <style>
 .footer {
   position: fixed;
@@ -18,5 +19,5 @@ title : 开始阅读
 }
 </style>
 <footer style="text-align: center; font-size: 0.9rem; color: #666;" class="footer">
-Made With Love By<a href="https://github.com/RoyOfficial233">RoyOfficial</a>.
+Made With Love By <a href="https://github.com/RoyOfficial233">RoyOfficial</a>.
 </footer>
